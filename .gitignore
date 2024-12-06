@@ -1,0 +1,15 @@
+*IGNORED/
+*_env/
+*IGNORED.md
+*IGNORED.bat
+*.apk
+*.png
+*.gif
+*.exe
+build
+*.dll
+*.ico
+*.log
+*.dist
+*.zip
+*.spec
