@@ -16,7 +16,7 @@ if exist ".\dist" (
     echo build and dist folder exists
     rmdir /s /q ".\dist"
     rmdir /s /q ".\build"
-	del /q gif_bg_remover.spec
+    del /q gif_bg_remover.spec
 ) else (
     echo No build and dist folder, continuing
 )
